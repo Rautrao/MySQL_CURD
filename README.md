@@ -1,5 +1,4 @@
-This is basic RESTAPI project for implementing CURD application using Node.js, Express.js and MySql
-This project was built to strengthen my understanding about MySql for DBMS, Error handeling , Middleware function and RESTAPIs
+This project implements basic CRUD operations using Node.js, Express.js, and MySQL.  It was built to strengthen my understanding of MySQL for DBMS, error handling, middleware functions, and REST APIs.
 
 # Steps to run 
 
